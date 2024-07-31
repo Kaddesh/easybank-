@@ -13,7 +13,7 @@ const Article = () => {
             <a href="/" className="article__item">
               <div
                 className="article__image"
-                style={{ backgroundImage: "url('/assets/image-currency.jpg')" }}
+                style={{ backgroundImage: "url('/easybank-/assets/image-currency.jpg')" }}
               ></div>
               <div className="article__text">
                 <div className="article__author">By Claire Robinson</div>
@@ -30,7 +30,7 @@ const Article = () => {
             <a href="/" className="article__item">
               <div
                 className="article__image"
-                style={{ backgroundImage: "url('/assets/image-restaurant.jpg')" }}
+                style={{ backgroundImage: "url('/easybank-/assets/image-restaurant.jpg')" }}
               ></div>
               <div className="article__text">
                 <div className="article__author">By Wilson Hutton</div>
@@ -47,7 +47,7 @@ const Article = () => {
             <a href="/" className="article__item">
               <div
                 className="article__image"
-                style={{ backgroundImage: "url('/assets/image-plane.jpg')" }}
+                style={{ backgroundImage: "url('/easybank-/assets/image-plane.jpg')" }}
               ></div>
               <div className="article__text">
                 <div className="article__author">By Wilson Hutton</div>
@@ -64,7 +64,7 @@ const Article = () => {
             <a href="/" className="article__item">
               <div
                 className="article__image"
-                style={{ backgroundImage: "url('/assets/image-confetti.jpg')" }}
+                style={{ backgroundImage: "url('/easybank-/assets/image-confetti.jpg')" }}
               ></div>
               <div className="article__text">
                 <div className="article__author">By Claire Robinson</div>
