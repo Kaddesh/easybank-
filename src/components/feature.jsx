@@ -17,7 +17,7 @@ const Feature = () => {
         <div class="feature__gridi">
           <div class="feature__itemm">
             <div class="feature__icon">
-              <img src="./assets/icon-online.svg" alt="icon-online"/>
+              <img src="/easybank-/assets/icon-online.svg" alt="icon-online"/>
             </div>
             <div class="feature__h2">Online Banking</div>
             <div class="feature__description">
@@ -28,7 +28,7 @@ const Feature = () => {
 
           <div class="feature__itemm">
             <div class="feature__icon">
-              <img src="./assets/icon-budgeting.svg" alt="icon-budget"/>
+              <img src="/easybank-/assets/icon-budgeting.svg" alt="icon-budget"/>
             </div>
             <div class="feature__h2">Simple Budgeting</div>
             <div class="feature__description">
@@ -39,7 +39,7 @@ const Feature = () => {
 
           <div class="feature__itemm">
             <div class="feature__icon">
-              <img src="./assets/icon-onboarding.svg" alt="icon-onboard"/>
+              <img src="/easybank-/assets/icon-onboarding.svg" alt="icon-onboard"/>
             </div>
             <div class="feature__h2">Fast Onboarding</div>
             <div class="feature__description">
@@ -49,7 +49,9 @@ const Feature = () => {
           </div>
 
           <div class="feature__itemm">
-            <div class="feature__icon"><img src="./assets/icon-api.svg" alt="icon-api"/></div>
+            <div class="feature__icon">
+              <img src="/easybank-/assets/icon-api.svg" alt="icon-api"/>
+              </div>
             <div class="feature__h2">Open API</div>
             <div class="feature__description">
               Manage your savings, investments, pension, and much more from one
